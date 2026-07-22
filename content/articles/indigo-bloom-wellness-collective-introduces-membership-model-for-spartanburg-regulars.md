@@ -1,0 +1,23 @@
+---
+title: "Indigo Bloom Wellness Collective Introduces Membership Model for Spartanburg Regulars"
+slug: "indigo-bloom-wellness-collective-introduces-membership-model-for-spartanburg-regulars"
+excerpt: "The subscription plan bundles massage, facials, and skincare at a flat monthly rate."
+category: "beauty-wellness"
+date: "2026-04-14"
+coverImage: "https://picsum.photos/seed/beauty-wellness-3477/1600/900"
+featured: false
+imageCredit: "Photo: Lorem Picsum (Unsplash-sourced stock library)"
+---
+
+SPARTANBURG, S.C. — The subscription plan bundles massage, facials, and skincare at a flat monthly rate.
+
+The shift mirrors a national trend toward wellness-focused spending, with local shops adapting their offerings to match changing customer expectations.
+
+Owners say the wellness industry in South Carolina has grown steadily as both residents and visitors prioritize self-care alongside more traditional beauty services.
+
+Owners say they plan to expand their team and service offerings if current demand holds through the end of the year.
+
+## What Comes Next
+
+Officials say the coming months will be a key test of whether the momentum described above holds up. Community members in Spartanburg are encouraged to follow updates as more details become available.
+
