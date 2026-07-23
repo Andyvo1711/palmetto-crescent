@@ -4,7 +4,7 @@ slug: "the-170-pedicure-and-full-set-that-chipped-within-a-week"
 excerpt: "A first-time client at Galaxy Nails Spa was upsold into a $170 pedicure and full set—only to watch her nails lift and both her fingers and toes chip within a week. A case study in how premium pricing collapses when quality and durability don't follow."
 category: "beauty-wellness"
 date: "2026-07-15"
-coverImage: "https://plus.unsplash.com/premium_photo-1661497566854-7a75d3e98996?auto=format&fit=crop&w=1600&h=900&q=80"
+coverImage: "https://images.unsplash.com/photo-1632345031435-8727f6897d53?auto=format&fit=crop&w=1600&h=900&q=80"
 featured: false
 imageCredit: "Photo: Unsplash"
 ---
