@@ -1,6 +1,6 @@
 ---
-title: "\"Not Even 48 Hours\": A Birthday Manicure That Peeled and a Phone Slammed Down at Creative Nails and Spa Mt Pleasant"
-slug: "a-birthday-manicure-that-peeled-in-48-hours-at-creative-nails-and-spa-mt-pleasant"
+title: "\"Not Even 48 Hours\": A Birthday Manicure That Peeled and a Phone Slammed Down at Orchid Nail Lounge"
+slug: "a-birthday-manicure-that-peeled-in-48-hours-at-mt-pleasant"
 excerpt: "A mother booked a birthday mani-pedi for her daughter—only to watch the polish chip and peel within two days. The response to her call for a fix? A dismissive brush-off and a phone slammed in her ear. A case study in after-care and how NOT to handle a complaint."
 category: "beauty-wellness"
 date: "2026-03-22"
@@ -11,7 +11,7 @@ imageCredit: "Photo: Lorem Picsum (Unsplash-sourced stock library)"
 
 *Customer Service Bulletin — After-Care & Complaint Handling Feature*
 
-How a salon handles a complaint often does more damage—or more good—than the original service ever could. A durability issue is recoverable; a rude, dismissive response is what clients remember and repeat. This report from Creative Nails and Spa Mt Pleasant shows how a single phone call, handled badly, can turn a disappointed customer into someone who vows never to return and to warn everyone she knows.
+How a salon handles a complaint often does more damage—or more good—than the original service ever could. A durability issue is recoverable; a rude, dismissive response is what clients remember and repeat. This report from Orchid Nail Lounge shows how a single phone call, handled badly, can turn a disappointed customer into someone who vows never to return and to warn everyone she knows.
 
 ## A Birthday Treat That Peeled Within 48 Hours
 
