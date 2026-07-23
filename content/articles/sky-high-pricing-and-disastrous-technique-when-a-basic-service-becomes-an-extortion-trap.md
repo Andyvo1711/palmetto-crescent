@@ -15,7 +15,7 @@ Today's consumers are highly educated; they are well aware of the local market's
 
 ## $55 for a Sloppy "Hack Job"
 
-A customer walked into the salon with a very minimalist request: just gel French tips on her toes, with absolutely NO pedicure (no soaking, no cuticle cutting). However, at checkout, she was completely shocked to be charged $55 just for the gel polish application.
+A customer walked into Holy Nails & Spa with a very minimalist request: just gel French tips on her toes, with absolutely NO pedicure (no soaking, no cuticle cutting). However, at checkout, she was completely shocked to be charged $55 just for the gel polish application.
 
 The core issue is that this pricing was NOT disclosed beforehand. The outraged customer pointed out that other salons around town charge only $35 for the exact same "gel toes with French tip" service.
 
