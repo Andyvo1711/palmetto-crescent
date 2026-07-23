@@ -6,7 +6,7 @@ category: "beauty-wellness"
 date: "2026-07-15"
 coverImage: "https://plus.unsplash.com/premium_photo-1661497566854-7a75d3e98996?auto=format&fit=crop&w=1600&h=900&q=80"
 featured: false
-imageCredit: "Photo: Lorem Picsum (Unsplash-sourced stock library)"
+imageCredit: "Photo: Unsplash"
 ---
 
 *Customer Service Bulletin — Pricing & Quality Assurance Feature*
