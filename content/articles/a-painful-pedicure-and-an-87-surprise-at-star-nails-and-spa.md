@@ -3,7 +3,7 @@ title: "A Painful Pedicure and an $87 Surprise: When Safety and Pricing Both Fal
 slug: "a-painful-pedicure-and-an-87-surprise-at-star-nails-and-spa"
 excerpt: "A mother-daughter pedicure at Star Nails & Spa went wrong on two fronts: a rough technique that drew blood, and an $87 bill for two pedicures with no polish. A case study in why physical safety and fair, transparent pricing have to come together."
 category: "beauty-wellness"
-date: "2026-07-24"
+date: "2026-03-24"
 coverImage: "https://picsum.photos/seed/star-nails-pedicure/1600/900"
 featured: false
 imageCredit: "Photo: Lorem Picsum (Unsplash-sourced stock library)"
