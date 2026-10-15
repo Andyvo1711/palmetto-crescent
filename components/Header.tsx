@@ -18,6 +18,26 @@ export default function Header() {
               </span>
             </div>
           </Link>
+
+          <form
+            action="/search"
+            role="search"
+            className="flex w-full max-w-xs items-center gap-2 rounded-sm border border-sweetgrass/30 bg-marsh/30 px-3 py-1.5 focus-within:border-sweetgrass sm:max-w-sm"
+          >
+            <input
+              type="search"
+              name="q"
+              placeholder="Search articles…"
+              aria-label="Search articles"
+              className="min-w-0 flex-1 bg-transparent font-body text-sm text-sand outline-none placeholder:text-sand/50"
+            />
+            <button
+              type="submit"
+              className="rounded-sm bg-sweetgrass px-3 py-1 font-mono text-xs uppercase tracking-wide text-marsh-deep transition hover:opacity-90"
+            >
+              Search
+            </button>
+          </form>
         </div>
       </div>
       <nav className="mx-auto max-w-6xl px-5">

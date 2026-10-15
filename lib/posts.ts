@@ -68,6 +68,40 @@ export function getRelatedPosts(current: PostMeta, count = 3): PostMeta[] {
   return sameCategory.slice(0, count);
 }
 
+export function searchPosts(query: string): PostMeta[] {
+  const terms = query.toLowerCase().split(/\s+/).filter(Boolean);
+  if (terms.length === 0) return [];
+
+  const results: { post: PostMeta; score: number }[] = [];
+
+  for (const slug of readAllSlugs()) {
+    const raw = fs.readFileSync(path.join(ARTICLES_DIR, `${slug}.md`), 'utf8');
+    const { data, content } = matter(raw);
+    const post = data as PostMeta;
+    const title = (post.title ?? '').toLowerCase();
+    const excerpt = (post.excerpt ?? '').toLowerCase();
+    const body = content.toLowerCase();
+
+    let score = 0;
+    let matchedAll = true;
+    for (const term of terms) {
+      const termScore =
+        (title.includes(term) ? 10 : 0) +
+        (excerpt.includes(term) ? 4 : 0) +
+        (body.includes(term) ? 1 : 0);
+      if (termScore === 0) {
+        matchedAll = false;
+        break;
+      }
+      score += termScore;
+    }
+    if (matchedAll) results.push({ post, score });
+  }
+
+  results.sort((a, b) => b.score - a.score || (a.post.date < b.post.date ? 1 : -1));
+  return results.map((r) => r.post);
+}
+
 export function getFeaturedPost(): PostMeta {
   const all = getAllPostsMeta();
   const featured = all.find((p) => p.featured);
